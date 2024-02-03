@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any fun new projects that peak my interest
 - 📫 ethanwells9798@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am addicted to caffeine 
+- ⚡ Fun fact: I am addicted to caffeine
 
 <!---
 EthanWellsSr/EthanWellsSr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
