@@ -1,16 +1,16 @@
-## Hi there 👋
+# Ethan Wells
 
-<!--
-**EthanWellsSr/EthanWellsSr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Houston-based Computer Engineering student graduating in May 2027. I design reliable software systems across CI/CD automation, embedded systems, and full-stack applications.
 
-Here are some ideas to get you started:
+## Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python • TypeScript • JavaScript • Linux • GitLab CI/CD • Jenkins • MATLAB/Simulink • embedded systems
+
+## Featured work
+
+- [Self-Driving RC Car](https://github.com/EthanWellsSr/Self-Driving-RC-Car) — leading a senior capstone developing a Raspberry Pi CM5 autonomous vehicle with computer vision and sensor integration.
+- [Dmitry](https://github.com/EthanWellsSr/Dmitry) — a read-only Python monitoring service with defensive validation, persisted state, tiered email alerts, and Linux service deployment.
+
+Open to full-time software engineering roles in Houston or remote starting May 2027.
+
+[LinkedIn](https://www.linkedin.com/in/ethanwells97/)
