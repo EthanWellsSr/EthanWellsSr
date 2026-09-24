@@ -4,7 +4,7 @@ Houston-based Computer Engineering student graduating in May 2027. I design reli
 
 ## Focus
 
-Python • TypeScript • JavaScript • Linux • GitLab CI/CD • Jenkins • MATLAB/Simulink • embedded systems
+Python • TypeScript • JavaScript • Linux • GitLab CI/CD • Jenkins • MATLAB/Simulink • Embedded Systems (C, C++)
 
 ## Featured work
 
